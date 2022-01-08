@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+}
+#left {
+    
+    align-items: left;
+    width: 33%;
+    margin-left: 100px;
+}
+
+#center {
+    align-items: center;
+    width: 33%;
+    margin-left: 200px;
+}
